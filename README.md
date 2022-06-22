@@ -37,4 +37,4 @@ Esse projeto está sob licença MIT.
 
 ---
 
-Feito com ❤ por Daniela Caus na NLW Together da Rocketseat
+Feito com ❤ por Daniela Caus com a Rocketseat
