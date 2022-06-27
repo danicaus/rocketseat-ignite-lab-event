@@ -30,6 +30,16 @@ Você pode usar este app no link: https://rocketseat-ignite-lab-event.vercel.app
 ## 🤓 Diferenciais em relação à aula ("O próximo nível")
 
 - Usada a API de internacionalização nativa do JavaScript no lugar de uma das bibliotecas sugeridas em aula ([Intl.DateTimeFormat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat)).
+- Footer
+
+## 📢 Possíveis implementações futuras
+
+- Autenticação
+- Responsividade
+- Loading com spinners
+- Impedir o clique nas aulas não liberadas
+- Redirecionamento para última aula vista
+- iFrame no lugar do Vime
 
 ## 📄 Licença
 
@@ -37,4 +47,4 @@ Esse projeto está sob licença MIT.
 
 ---
 
-Feito com ❤ por Daniela Caus com a Rocketseat
+<p align="center"> Feito com ❤ por Daniela Caus com a Rocketseat</p>
