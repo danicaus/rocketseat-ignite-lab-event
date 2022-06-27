@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
 ## 💻 Como executar
 
-Após clonar este repositório, basta instalar todas as suas dependências usando `npm install` ou `yarn add`. Com as bibliotecas instaladas, basta executar `yarn start` ou `npm run start` para rodar a aplicação localmente.
+Após clonar este repositório, basta instalar todas as suas dependências usando `npm install` ou `yarn add`. Com as bibliotecas instaladas, basta executar `yarn dev` ou `npm run dev` para rodar a aplicação localmente.
 
 ## 👀 Para acessar o projeto
 

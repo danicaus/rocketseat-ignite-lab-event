@@ -2,6 +2,7 @@ import Header from "../components/Header";
 import Video from "../components/Video";
 import Sidebar from "../components/Sidebar";
 import { useParams } from "react-router-dom";
+import Footer from "../components/Footer";
 
 export default function Event() {
   const { slug } = useParams<{ slug: string }>();
@@ -18,6 +19,7 @@ export default function Event() {
         }
         <Sidebar />
       </main>
+      <Footer />
     </div>
   )
 }
